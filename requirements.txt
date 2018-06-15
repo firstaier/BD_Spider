@@ -1,0 +1,6 @@
+xlrd==1.1.0
+pandas==0.22.0
+numpy==1.14.1
+Pillow==5.1.0
+scrapy==1.5.0
+xpinyin
